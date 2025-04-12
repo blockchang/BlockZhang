@@ -2,7 +2,7 @@
 
 # 👋 Welcome to BlockZhang Labs
 
-Hey, I’m Steve, a Telegram-native Web3 builder
+Hey, I’m Steve [张哲泰], a Telegram-native Web3 builder
 
 I design bots for real-world usage across DAOs, NFT communities, and crypto-native projects. Everything here is tested in the wild and built from scratch.
 
