@@ -16,9 +16,13 @@ All bots are public, modular, and demo-ready via Telegram.
 Check out 👉 [@blockzhang](https://t.me/blockzhang)
 
 ## 📌 Featured Repos
+
+Coming soon:
+- `etherum-wallet-bot`
+- `dao-alert-bot`
+
 Coming soon:
 - `wallet-verifier-bot`
-- `dao-alert-bot`
 - `translation-relay-bot`
 - `ton-miniapp-store-bot`
 - `airdrop-checker-bot`
